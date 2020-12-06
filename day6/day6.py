@@ -1,6 +1,3 @@
-import pprint
-
-
 def count_unique(arr: list[str]) -> int:
     unique_ans = set()
     for person in arr:
